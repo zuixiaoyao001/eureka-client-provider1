@@ -1,2 +1,2 @@
-# eureka-service-center2
-eureka高可用中心2
+# eureka-client-provider1
+eureka服务提供者1
